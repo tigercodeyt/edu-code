@@ -200,80 +200,11 @@
         
 
 
-        <div class="it-team-3-area p-relative z-index pt-110 pb-90" style="margin-top:40px">
-            <div class="it-team-3-bg" data-background="assets/img/team/bg-4.png"></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-12">
-                        <div class="it-event-title-box text-center pb-40">
-                            <span class="it-section-subtitle text-white">
-                                <img src="assets/img/team/bok.svg" alt>
-                                <b>&nbsp; &nbsp; Teacher &nbsp; &nbsp;</b>
-                                <img src="assets/img/team/bok.svg" alt>
-                            </span>
-                            <h2 class="it-section-title-3 text-white">meet our expert Instructor</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-xl-3 col-lg-4 col-md-6 mb-30">
-                        <div class="it-team-3-item text-center">
-                            <div class="it-team-3-thumb fix">
-                                <img src="assets/img/team/team-3-1.jpg" alt>
-                            </div>
-                            <div class="it-team-3-content">
-                                <div class="it-team-3-author-box">
-                                    <h4 class="it-team-3-title"><a>Nathan Allen</a></h4>
-                                    <span>Teacher</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-4 col-md-6 mb-30">
-                        <div class="it-team-3-item text-center">
-                            <div class="it-team-3-thumb fix">
-                                <img src="assets/img/team/team-3-2.jpg" alt>
-                            </div>
-                            <div class="it-team-3-content">
-                                <div class="it-team-3-author-box">
-                                    <h4 class="it-team-3-title"><a>Esther Boyd</a></h4>
-                                    <span>Teacher</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-4 col-md-6 mb-30">
-                        <div class="it-team-3-item text-center">
-                            <div class="it-team-3-thumb fix">
-                                <img src="assets/img/team/team-3-3.jpg" alt>
-                            </div>
-                            <div class="it-team-3-content">
-                                <div class="it-team-3-author-box">
-                                    <h4 class="it-team-3-title"><a>Jamie Keller</a></h4>
-                                    <span>Teacher</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-4 col-md-6 mb-30">
-                        <div class="it-team-3-item text-center">
-                            <div class="it-team-3-thumb fix">
-                                <img src="assets/img/team/team-3-4.jpg" alt>
-                            </div>
-                            <div class="it-team-3-content">
-                                <div class="it-team-3-author-box">
-                                    <h4 class="it-team-3-title"><a>Jesus Pendley</a></h4>
-                                    <span>Teacher</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+       
 
-
+        <div style="margin-top:20px">
         <?php include("inc_page/news_s.php");?>
+        </div>
 
     </main>
 

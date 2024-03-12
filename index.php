@@ -58,7 +58,7 @@
                 <span class="theme"><i class="purecounter" data-purecounter-duration="1"
                         data-purecounter-end="1">1 </i>k+</span>
                 <span>Total Student</span>
-                <img src="assets/img/hero/shape-2-8.png" alt>
+                <!-- <img src="assets/img/hero/shape-2-8.png" alt> -->
             </div>
             <div class="container">
                 <div class="row align-items-end">
@@ -273,13 +273,13 @@
                     <div class="col-xl-6 col-lg-6">
                         <div class="it-about-thumb-box p-relative">
                             <div class="it-about-thumb-1 d-none d-xl-block">
-                                <img src="assets/img/about/thumb-1.jpg" alt>
+                                <img src="assets/as/sb.png" alt>
                             </div>
                             <div class="it-about-thumb-2 d-none d-xl-block">
-                                <img src="assets/img/about/thumb-2.jpg" alt>
+                                <img src="assets/as/sc.png" alt>
                             </div>
                             <div class="it-about-main-thumb text-xl-end text-center">
-                                <img src="assets/img/about/thumb-3.jpg" alt>
+                                <img src="assets/as/sa.png" alt>
                             </div>
                             <div class="it-about-shape-1 d-none d-md-block">
                                 <img src="assets/img/about/shape-1-1.png" alt>
@@ -457,7 +457,7 @@ Effortless Mastery</p>
                     <div class="col-xl-6 col-lg-6 mb-30">
                         <div class="it-choose-thumb-box text-center text-md-end">
                             <div class="it-choose-thumb p-relative">
-                                <img src="assets/img/choose/choose-2-1.jpg" alt>
+                                <img src="assets/as/saa.png" alt>
                                 <div class="it-choose-shape-1">
                                     <img src="assets/img/choose/shape-1-1.png" alt>
                                 </div>
@@ -766,12 +766,6 @@ Join our school now and start building your skills.</p>
                                     </span>
                                 </a>
                             </div>
-                            <div class="it-career-thumb">
-                                <img src="assets/img/career/thumb-1.png" alt>
-                            </div>
-                            <div class="it-career-shape-1">
-                                <img src="assets/img/career/shape-1.png" alt>
-                            </div>
                         </div>
                     </div>
                     <div class="col-xl-6 col-lg-6 mb-30">
@@ -793,12 +787,6 @@ Join our Tuition Academy to receive a 40% scholarship.</p>
                                         </svg>
                                     </span>
                                 </a>
-                            </div>
-                            <div class="it-career-thumb">
-                                <img src="assets/img/career/thumb-2.png" alt>
-                            </div>
-                            <div class="it-career-shape-1">
-                                <img src="assets/img/career/shape-1.png" alt>
                             </div>
                         </div>
                     </div>

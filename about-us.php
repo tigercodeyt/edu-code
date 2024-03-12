@@ -73,11 +73,11 @@
                         <div
                             class="it-about-4-thumb-wrap d-flex align-items-center justify-content-center justify-content-lg-end">
                             <div class="it-about-4-thumb-double d-flex flex-column">
-                                <img class="mb-20" src="assets/img/about/thumb-4-1.jpg" alt>
-                                <img src="assets/img/about/thumb-4-2.jpg" alt>
+                                <img class="mb-20" src="assets/as/sc.png" alt>
+                                <img src="assets/as/sb.png" alt>
                             </div>
                             <div class="it-about-4-thumb-single">
-                                <img src="assets/img/about/thumb-4-3.jpg" alt>
+                                <img src="assets/as/sa.png" alt>
                             </div>
                         </div>
                     </div>

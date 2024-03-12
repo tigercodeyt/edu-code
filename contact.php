@@ -74,8 +74,7 @@
                             <div class="it-contact__right-box">
                                 <div class="it-contact__section-box pb-20">
                                     <h4 class="it-contact__title pb-15">Get in Touch</h4>
-                                    <p>Suspendisse ultrice gravida dictum fusce placerat <br>
-                                        ultricies integer </p>
+                                    <p>The best school in Gilgit-Baltistan is affiliated with several boards.</p>
                                 </div>
                                 <div class="it-contact__content mb-55">
                                     <ul>
@@ -86,7 +85,7 @@
                                                 </div>
                                                 <div class="it-contact__text">
                                                     <span>Our Address</span>
-                                                    <a href="#">Defence CC</a>
+                                                    <a>Near Sehat Foundation KKH Danyour Giligt</a>
                                                 </div>
                                             </div>
                                         </li>
@@ -109,7 +108,7 @@
                                                 </div>
                                                 <div class="it-contact__text">
                                                     <span>contact</span>
-                                                    <a href="tel:+99358954565">+1- 35895-4565</a>
+                                                    <a href="tel:+923108482996">+92 310 8482996</a>
                                                     <a href="mailto:tigercodecodeyt.com"><span>admin@abbas.com</span></a>
                                                 </div>
                                             </div>

@@ -69,15 +69,15 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 mb-30">
                         <div class="it-course-item">
                             <div class="it-course-thumb mb-20 p-relative">
-                                <a href="course-details.html"><img src="assets/toopers/WhatsApp Image 2024-03-06 at 00.09.53_461087f1.jpg" alt></a>
+                                <a ><img src="assets/toopers/WhatsApp Image 2024-03-06 at 00.09.53_461087f1.jpg" alt></a>
                                 <div class="it-course-thumb-text">
                                     <!-- <span>SSC -1</span> -->
                                 </div>
                             </div>
                             <div class="it-course-content">
-                                <h4 class="it-course-title pb-5"><a href="course-details.html">Qurat-ul-Ain</a></h4>
+                                <h4 class="it-course-title pb-5"><a >Qurat-ul-Ain</a></h4>
                                 <div class="it-course-author pb-15">
-                                    <img src="assets/img/course/avata-1.png" alt>
+                                    
                                     <span>435/550 <i>(ESC)</i> 3<sup>rd</sup> <i>Postion</i></span>
                                 </div>
                             </div>
@@ -86,15 +86,15 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 mb-30">
                         <div class="it-course-item">
                             <div class="it-course-thumb mb-20 p-relative">
-                                <a href="course-details.html"><img src="assets/toopers/WhatsApp Image 2024-03-06 at 00.09.53_7c47ca9f.jpg" alt></a>
+                                <a ><img src="assets/toopers/WhatsApp Image 2024-03-06 at 00.09.53_7c47ca9f.jpg" alt></a>
                                 <div class="it-course-thumb-text">
                                     <!-- <span>SSC -1</span> -->
                                 </div>
                             </div>
                             <div class="it-course-content">
-                                <h4 class="it-course-title pb-5"><a href="course-details.html">Eiman Ansar</a></h4>
+                                <h4 class="it-course-title pb-5"><a >Eiman Ansar</a></h4>
                                 <div class="it-course-author pb-15">
-                                    <img src="assets/img/course/avata-1.png" alt>
+                                    
                                     <span>427/550 <i>(ESC)</i> 4<sup>th</sup> <i>Postion</i></span>
                                 </div>
                             </div>
@@ -104,15 +104,15 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 mb-30">
                         <div class="it-course-item">
                             <div class="it-course-thumb mb-20 p-relative">
-                                <a href="course-details.html"><img src="assets/toopers/WhatsApp Image 2024-03-06 at 00.09.53_e746ad43.jpg" alt></a>
+                                <a ><img src="assets/toopers/WhatsApp Image 2024-03-06 at 00.09.53_e746ad43.jpg" alt></a>
                                 <div class="it-course-thumb-text">
                                     <!-- <span>SSC -1</span> -->
                                 </div>
                             </div>
                             <div class="it-course-content">
-                                <h4 class="it-course-title pb-5"><a href="course-details.html">Youmna</a></h4>
+                                <h4 class="it-course-title pb-5"><a >Youmna</a></h4>
                                 <div class="it-course-author pb-15">
-                                    <img src="assets/img/course/avata-1.png" alt>
+                                    
                                     <span>388/550 <i>(ESC)</i> 5<sup>th</sup> <i>Postion</i></span>
                                 </div>
                             </div>
