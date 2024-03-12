@@ -109,7 +109,6 @@
                                                 <div class="it-contact__text">
                                                     <span>contact</span>
                                                     <a href="tel:+923108482996">+92 310 8482996</a>
-                                                    <a href="mailto:tigercodecodeyt.com"><span>admin@abbas.com</span></a>
                                                 </div>
                                             </div>
                                         </li>
