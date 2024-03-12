@@ -49,41 +49,18 @@
                     </div>
                     <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 mb-50">
                         <div class="it-footer-widget footer-col-4">
-                            <h4 class="it-footer-title">Gallery</h4>
+                            <a href="/ourgallery.php">
+                                <h4 class="it-footer-title">Visit Our Gallery</h4>
                             <div class="it-footer-gallery-box">
                                 <div class="row gx-5">
-                                    <div class="col-md-4 col-4">
+                                    <div class="col-md-6 col-6">
                                         <div class="it-footer-thumb mb-10">
-                                            <img src="assets/img/footer/thumb-1-1.png" alt>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4 col-4">
-                                        <div class="it-footer-thumb mb-10">
-                                            <img src="assets/img/footer/thumb-1-2.png" alt>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4 col-4 mb-10">
-                                        <div class="it-footer-thumb">
-                                            <img src="assets/img/footer/thumb-1-3.png" alt>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4 col-4">
-                                        <div class="it-footer-thumb">
-                                            <img src="assets/img/footer/thumb-1-4.png" alt>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4 col-4">
-                                        <div class="it-footer-thumb">
-                                            <img src="assets/img/footer/thumb-1-5.png" alt>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4 col-4">
-                                        <div class="it-footer-thumb">
-                                            <img src="assets/img/footer/thumb-1-6.png" alt>
+                                            <img src="https://cdn-icons-png.flaticon.com/512/8077/8077787.png" alt  style="border:2px solid #fff;padding:20px;">
                                         </div>
                                     </div>
                                 </div>
                             </div>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -96,7 +73,7 @@
                 <div class="row">
                     <div class="col-12 wow itfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                         <div class="it-copyright-text text-center">
-                            <p>Copyright © 2024 <a href="#">JHON MOSSES </a> || All Rights Reserved</p>
+                            <p>Copyright © 2024 All Rights Reserved by <a href="#">ESDC</a>, Design and  Developed By <a href="#">IT Section ESDC</a></p>
                         </div>
                     </div>
                 </div>
