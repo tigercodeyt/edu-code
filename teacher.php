@@ -75,7 +75,7 @@
                             <div class="it-team-3-content">
                                 
                                 <div class="it-team-3-author-box">
-                                    <h4 class="it-team-3-title"><a href="teacher-details.html">Nathan Allen</a></h4>
+                                    <h4 class="it-team-3-title"><a >Nathan Allen</a></h4>
                                     <span>Teacher</span>
                                 </div>
                             </div>
@@ -89,7 +89,7 @@
                             <div class="it-team-3-content">
                                 
                                 <div class="it-team-3-author-box">
-                                    <h4 class="it-team-3-title"><a href="teacher-details.html">Esther Boyd</a></h4>
+                                    <h4 class="it-team-3-title"><a >Esther Boyd</a></h4>
                                     <span>Teacher</span>
                                 </div>
                             </div>
@@ -103,7 +103,7 @@
                             <div class="it-team-3-content">
                                 
                                 <div class="it-team-3-author-box">
-                                    <h4 class="it-team-3-title"><a href="teacher-details.html">Jamie Keller</a></h4>
+                                    <h4 class="it-team-3-title"><a >Jamie Keller</a></h4>
                                     <span>Teacher</span>
                                 </div>
                             </div>
@@ -117,7 +117,7 @@
                             <div class="it-team-3-content">
                                 
                                 <div class="it-team-3-author-box">
-                                    <h4 class="it-team-3-title"><a href="teacher-details.html">Jesus Pendley</a></h4>
+                                    <h4 class="it-team-3-title"><a >Jesus Pendley</a></h4>
                                     <span>Teacher</span>
                                 </div>
                             </div>
@@ -131,7 +131,7 @@
                             <div class="it-team-3-content">
                                 
                                 <div class="it-team-3-author-box">
-                                    <h4 class="it-team-3-title"><a href="teacher-details.html">Melvin Warner</a></h4>
+                                    <h4 class="it-team-3-title"><a >Melvin Warner</a></h4>
                                     <span>Teacher</span>
                                 </div>
                             </div>
@@ -145,7 +145,7 @@
                             <div class="it-team-3-content">
                                 
                                 <div class="it-team-3-author-box">
-                                    <h4 class="it-team-3-title"><a href="teacher-details.html">Nancy Dickens</a></h4>
+                                    <h4 class="it-team-3-title"><a >Nancy Dickens</a></h4>
                                     <span>Teacher</span>
                                 </div>
                             </div>
@@ -159,7 +159,7 @@
                             <div class="it-team-3-content">
                                 
                                 <div class="it-team-3-author-box">
-                                    <h4 class="it-team-3-title"><a href="teacher-details.html">Harriet Graham</a></h4>
+                                    <h4 class="it-team-3-title"><a >Harriet Graham</a></h4>
                                     <span>Teacher</span>
                                 </div>
                             </div>
@@ -173,7 +173,7 @@
                             <div class="it-team-3-content">
                                 
                                 <div class="it-team-3-author-box">
-                                    <h4 class="it-team-3-title"><a href="teacher-details.html">Ernest Dustin</a></h4>
+                                    <h4 class="it-team-3-title"><a >Ernest Dustin</a></h4>
                                     <span>Teacher</span>
                                 </div>
                             </div>
@@ -207,6 +207,5 @@
     <script src="assets/js/main.js"></script>
 </body>
 
-<!-- Mirrored from ordainit.com/educate/teacher.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 26 Feb 2024 12:14:08 GMT -->
 
 </html>

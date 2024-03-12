@@ -205,6 +205,4 @@
     <script src="assets/js/main.js"></script>
 </body>
 
-<!-- Mirrored from ordainit.com/educate/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 26 Feb 2024 12:15:02 GMT -->
-
 </html>
